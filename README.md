@@ -1,4 +1,3 @@
-## João Lucas
 # 🧑‍💻 João Lucas
 
 **`Desenvolvedor Full-Stack`**
